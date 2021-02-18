@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceRoller001</string>
+    <string name="roll_label">Roll the Dice</string>
+    <string name="application_by_luana">Application By Luana</string>
+    <string name="default_message">Hello World Dorset Calling</string>
+    <string name="log_message_1">I am a message</string>
+    <string name="button_clicked1">button clicked</string>
+    <string name="dice_clicked">Button Clicked to roll the dice</string>
+    <string name="screen_msg_1">Dice Rolled</string>
+
+</resources>
